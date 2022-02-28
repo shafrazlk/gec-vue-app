@@ -1,9 +1,9 @@
 {
-	"name": "sakai-vue",
+	"name": "gec-vue-app",
 	"version": "3.4.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/primefaces/sakai-vue.git"
+		"url": "https://github.com/shafrazlk/gec-vue-app.git"
 	},
 	"license": "MIT",
 	"scripts": {
